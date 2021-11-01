@@ -11,4 +11,4 @@ An e-commerce site built with full stack Django.
 
 * Celery is used for async tasking for sending emails after order completion.
 * Braintree is used as the payment processor
-* RabbitMQ as the message broker
+* RabbitMQ as the message broker for payments
